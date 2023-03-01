@@ -1,0 +1,9 @@
+{
+    "name" : "git/git",
+    "description" : "First class git",
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "App"
+        }
+    }
+}
